@@ -36,6 +36,7 @@
             {
                 "CONVERT_TO": "rp2040_ce"
             }
+
         ],
         [
             "splitkb/aurora/sweep/rev1",
